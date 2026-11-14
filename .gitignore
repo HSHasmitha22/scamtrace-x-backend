@@ -1,0 +1,10 @@
+.env
+**/.env
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+backend/main_backup.py
+backend/main_openai_backup.py
+backend/main.py.save
